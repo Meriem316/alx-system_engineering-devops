@@ -1,2 +1,2 @@
 #!/bin/bash
-ls _t1 | heaad -n 10
+ls -t1 | heaad -n 10
